@@ -1,6 +1,6 @@
 - 👋 Hi, I’m @avijitj-hub
 - 👀 I’m interested in Embedded Systems, IoT and Machine Learning.
-- 🌱 I’m currently learning Quantum Computing and Cloud.
+- 🌱 I’m currently seeking full-time opportunities.
 - 💞️ I’m looking to collaborate on IBM Cloud.
 - 📫 How to reach me ajaiswa1@uncc.edu.
 
