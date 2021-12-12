@@ -1,7 +1,7 @@
-- 👋 Hi, I’m @avijitj-hub
-- 👀 I’m interested in Embedded Systems, IoT and Machine Learning.
+- 👋 Hi, I’m Avijit Jaiswal.
+- 👀 I specialize in Embedded Systems, IoT and Machine Learning.
 - 🌱 I’m currently seeking full-time opportunities.
-- 💞️ I’m looking to collaborate on IBM Cloud.
+- 💞️ I’m looking to collaborate on IBM Cloud and Quantum Computing.
 - 📫 You can reach me at ajaiswa1@uncc.edu.
 
 <!---
